@@ -1,0 +1,10 @@
+input { padding:2px}
+
+input[type="submit"] {
+    margin: 0 5px;
+}
+
+form {
+    width: 500px;
+    margin: 20vh auto;
+}
